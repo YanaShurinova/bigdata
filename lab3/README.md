@@ -12,7 +12,7 @@
     Метод, проверяющий, что координаты начала поездки и координаты конца поездки соответствуют Нью-Йорку.
 
 Тесты:
-![RideCleansingTest.jpg](https://github.com/YanaShurinova/bigdata/lab3/RideCleansingTest.jpg)
+![RideCleansingTest.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab3/RideCleansingTest.jpg)
 
 2. RideAndFares
 
@@ -58,7 +58,7 @@
     если не в первый раз - объединяются в складываются в поток
 
 Тесты:
-![RideAndFaresTest.jpg](https://github.com/YanaShurinova/bigdata/lab3/RideAndFaresTest.jpg)
+![RideAndFaresTest.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab3/RideAndFaresTest.jpg)
 
 3. HourlyTips
 
@@ -114,7 +114,7 @@
     Далее объектам назначаются ключи (keyBy(fare -> fare.driverId)). После этого поток разбивается на временные окна, длительность которых - один час и к каждому ключу применяется функция, которая суммирует чаевые. Затем применяется еще одно деление на временные окна, длительностью час(без учета ключа) и затем выбирается водитель с наибольшими чаевыми.
 
 Тесты:
-![HourlyTipsTest.jpg](https://github.com/YanaShurinova/bigdata/lab3/HourlyTipsTest.jpg)
+![HourlyTipsTest.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab3/HourlyTipsTest.jpg)
 
 4. LongRides
 
@@ -192,4 +192,4 @@ public static class AlertFunction extends KeyedProcessFunction<Long, TaxiRide, L
 Во всех случаях состояние очищается.
 
 Тесты:
-![LongRidesTest.jpg](https://github.com/YanaShurinova/bigdata/lab3/LongRidesTest.jpg)
+![LongRidesTest.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab3/LongRidesTest.jpg)
