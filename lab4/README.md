@@ -157,7 +157,9 @@ Philosopher 1 put the right fork
 
 Philosopher 1 put the loft fork and finished eating
 
-Philosopher 1 is thinkingPhilosopher 1 is going to eat
+Philosopher 1 is thinking
+
+Philosopher 1 is going to eat
 
 Philosopher 2 picked up the left fork
 
@@ -179,7 +181,9 @@ Philosopher 2 put the right fork
 
 Philosopher 2 put the loft fork and finished eating
 
-Philosopher 2 is thinkingPhilosopher 3 picked up the left fork
+Philosopher 2 is thinking
+
+Philosopher 3 picked up the left fork
 
 Philosopher 3 picked up the right fork
 
