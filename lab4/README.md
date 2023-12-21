@@ -203,17 +203,17 @@ Philosopher 5 is thinking
 # Двухфазный коммит
 
 - создаем узел /tx
-
-{create_node.jpg}
+  
+![create_node.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/create_node.jpg)
 
 - выводы клиентов
-
-{client1.jpg}
-{client1_2.jpg}
-{client2.jpg}
+  
+![client1.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/client1.jpg)
+![client1_2.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/client1_2.jpg)
+![client2.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/client2.jpg)
 
 - вывод координатора
 
-{coord1.jpg}
-{coord2.jpg}
-{coord3.jpg}
+![coord1.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/coord1.jpg)
+![coord2.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/coord2.jpg)
+![coord3.jpg](https://github.com/YanaShurinova/bigdata/blob/main/lab4/screenshots/coord3.jpg)
