@@ -198,3 +198,22 @@ Philosopher 5 put the right fork
 Philosopher 5 put the loft fork and finished eating
 
 Philosopher 5 is thinking
+
+
+# Двухфазный коммит
+
+- создаем узел /tx
+
+{create_node.jpg}
+
+- выводы клиентов
+
+{client1.jpg}
+{client1_2.jpg}
+{client2.jpg}
+
+- вывод координатора
+
+{coord1.jpg}
+{coord2.jpg}
+{coord3.jpg}
